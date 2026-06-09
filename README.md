@@ -1,64 +1,102 @@
+# Hi, I'm Kerima Mussa 👋🏽
 
+### Software Engineer | AI Applications | Full-Stack Development | Data-Driven Solutions
 
-# Hi, I'm Kerima Mussa 👋
+I build intelligent applications, scalable software systems, and automation solutions that solve real-world problems. My interests span software engineering, artificial intelligence, full-stack development, business intelligence, and data analytics.
 
-Software Engineer passionate about building intelligent applications, scalable systems, and innovative technology solutions.
+---
 
-My experience spans software engineering, AI applications, full-stack development, automation, business intelligence, and data analytics. Through internships, leadership roles, research, and technical projects, I have developed solutions that improve efficiency, automate workflows, and transform data into actionable insights.
+## About Me
 
+🎓 B.S. Computer Science, Business Analytics & Mathematics
 
- 
- 
- 
- What I Work With
+💻 Software Systems Intern @ Sheraton Hotels & Resorts
 
-💻 Python • Java • JavaScript • SQL
+🤖 AI & Web Developer Intern @ GAO Tek Inc.
 
-🌐 React • FastAPI • Flask • REST APIs
+🔬 Research Assistant (Data & Policy Research)
 
-🤖 Artificial Intelligence • Machine Learning • LangChain
+🚀 Built AI-powered applications, automation systems, analytics dashboards, and full-stack web solutions
 
-📊 Data Analytics • Business Intelligence • Dashboard Development
+🏆 Dean's List • STEM Recognition Award • Senior Capstone Recognition • 2× Programming Competition Winner
 
-☁️ GitHub • Git • Automation • System Design
+👩🏾‍💻 President, Mathematics & Computer Science Club
 
-### Featured Projects
+🌍 Passionate about using technology to create meaningful impact and solve complex problems
+
+---
+
+## Tech Stack
+
+### Languages
+
+🐍 Python
+
+☕ Java
+
+🌐 JavaScript
+
+🗄 SQL
+
+### Frameworks & Tools
+
+⚛️ React
+
+🚀 FastAPI
+
+🔥 Flask
+
+🔗 REST APIs
+
+🤖 LangChain
+
+📊 Power BI
+
+🕷 Selenium
+
+🐘 PostgreSQL
+
+🔧 Git & GitHub
+
+---
+
+## Featured Projects
 
 🚀 AI Documentation System
 
-AI-powered documentation platform for content generation, summarization, and code annotation.
+AI-powered documentation platform that automates content generation, summarization, and code annotation workflows.
 
 🚀 Course Scheduling Intelligence System
 
-Capstone project leveraging Selenium, APIs, and automation to support academic planning and scheduling.
+Senior Capstone project using Python, Selenium, APIs, and automation to support academic planning and course recommendations.
 
 🚀 Campus Safety Alert App
 
-Mobile application delivering real-time alerts, incident reporting, and location-aware safety notifications.
+Location-aware mobile application delivering real-time emergency alerts and incident reporting.
 
 🚀 Eco Sense AI
 
 Machine learning platform that analyzes environmental data and generates predictive sustainability insights.
 
+---
 
+## Leadership & Impact
 
+👑 President, Mathematics & Computer Science Club
 
-Leadership
+🎓 Tutor Cohort Leader
 
-• President, Mathematics & Computer Science Club
+🤝 Student Ambassador Lead
 
-• Tutor Cohort Leader
+🏠 Resident Assistant
 
-• Student Ambassador Lead
+📈 Built systems and dashboards that improved reporting efficiency by 25%
 
-• Resident Assistant
+🌟 Led initiatives that increased student engagement and supported the club's first hackathon participation
 
+---
 
- 
- 
- 
- 
- Honors & Recognition
+## Honors & Recognition
 
 🏆 Dean's List
 
@@ -70,15 +108,22 @@ Leadership
 
 🏆 2× Programming Competition Winner
 
+🏆 Student Success Mentor Recognition
 
+---
 
+## Beyond Technology
 
+📚 Continuous Learning
 
+✈️ Travel & Exploring New Cultures
 
-Connect With Me
+🎤 Mentoring & Leadership
 
-Portfolio: https://kerima-001.github.io/portfolio/
+💡 Building New Ideas & Startups
 
-LinkedIn: linkedin.com/in/kerima-mussa-a72735277
+☕ Coffee, Coding, and Side Projects
 
-GitHub: github.com/Kerima-001
+---
+
+### “Technology is most powerful when it creates opportunities, solves problems, and improves lives.”
