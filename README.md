@@ -26,37 +26,37 @@ I build intelligent applications, scalable software systems, and automation solu
 
 ---
 
-## Tech Stack
+## 🌐 Tech Stack
 
 ### Languages
 
-🐍 Python
+ Python
 
-☕ Java
+ Java
 
-🌐 JavaScript
+ JavaScript
 
 🗄 SQL
 
 ### Frameworks & Tools
 
-⚛️ React
+ React
 
-🚀 FastAPI
+FastAPI
 
-🔥 Flask
+Flask
 
-🔗 REST APIs
+REST APIs
 
-🤖 LangChain
+LangChain
 
-📊 Power BI
+Power BI
 
-🕷 Selenium
+Selenium
 
-🐘 PostgreSQL
+ PostgreSQL
 
-🔧 Git & GitHub
+ Git & GitHub
 
 ---
 
