@@ -8,7 +8,7 @@ I build intelligent applications, scalable software systems, and automation solu
 
 ## About Me
 
-🎓 B.S. Computer Science, Business Analytics & Mathematics
+🎓 B.S. Computer Science with Minor on Business Analytics & Mathematics
 
 💻 Software Systems Intern @ Sheraton Hotels & Resorts
 
