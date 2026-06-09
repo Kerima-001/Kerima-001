@@ -25,7 +25,7 @@ Software Engineer & AI Builder
 
 ## 🧠 What I Build
 
-I design and ship **AI-powered applications**, **full-stack web systems**, and **data-driven automation tools** — the kind of software that quietly makes things work better. I'm drawn to problems at the intersection of systems thinking and practical impact.
+I design and ship **AI-powered applications**, **full-stack web systems**, and **data driven automation tools** the kind of software that quietly makes things work better. I'm drawn to problems at the intersection of systems thinking and practical impact.
 
 ```python
 kerima = {
@@ -42,19 +42,19 @@ kerima = {
 ## 🚀 Featured Projects
 
 ### 🤖 AI Documentation System
-> Automates content generation, summarization, and code annotation workflows — so engineers can stop writing docs by hand.
+> Automates content generation, summarization, and code annotation workflows so engineers can stop writing docs by hand.
 `Python` `LangChain` `FastAPI` `NLP`
 
 ---
 
 ### 📅 Course Scheduling Intelligence System *(Senior Capstone)*
-> Smart academic planning tool using real-time scraping + API integrations to recommend courses based on student history and goals.
+> Smart academic planning tool using real time scraping + API integrations to recommend courses based on student history and goals.
 `Python` `Selenium` `REST APIs` `Automation`
 
 ---
 
 ### 🚨 Campus Safety Alert App
-> Location-aware mobile app for real-time emergency alerts and incident reporting across campus.
+> Location-aware mobile app for real time emergency alerts and incident reporting across campus.
 `Mobile Dev` `Geolocation` `Alerts`
 
 ---
@@ -110,7 +110,7 @@ kerima = {
 
 > *"Technology is most powerful when it creates opportunities, solves problems, and improves lives."*
 
-I care about building things that work in the real world — not just in demos. I tutor, mentor, and lead because I believe the next generation of builders deserves good support. Right now I'm deepening my work in AI application development and data systems, and always looking for the next problem worth solving.
+I care about building things that work in the real world, not just in demos. I tutor, mentor, and lead because I believe the next generation of builders deserves good support. Right now I'm deepening my work in AI application development and data systems, and always looking for the next problem worth solving.
 
 ---
 
