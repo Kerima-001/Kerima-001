@@ -9,7 +9,9 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-### Hi, I'm Kerima 👋🏽 — Software Engineer & AI Builder
+### Hi, I'm Kerima 👋🏽 
+
+Software Engineer & AI Builder
 
 *Building intelligent systems that scale. Based in New Haven, CT.*
 
@@ -116,6 +118,6 @@ I care about building things that work in the real world — not just in demos. 
 
 📍 New Haven, CT &nbsp;·&nbsp; 📬 [LinkedIn](https://linkedin.com/in/kerima-mussa-a72735277) &nbsp;·&nbsp; 🌐 [Portfolio](https://github.com/Kerima-001/portfolio)
 
-*Open to new grad roles, internships, and interesting collaborations.*
+*FullTime Roles and interesting collaborations.*
 
 </div>
