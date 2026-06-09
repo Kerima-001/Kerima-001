@@ -1,129 +1,121 @@
-# Hi, I'm Kerima Mussa 👋🏽
+<div align="center">
 
-### Software Engineer | AI Applications | Full-Stack Development | Data-Driven Solutions
+```
+██╗  ██╗███████╗██████╗ ██╗███╗   ███╗ █████╗
+██║ ██╔╝██╔════╝██╔══██╗██║████╗ ████║██╔══██╗
+█████╔╝ █████╗  ██████╔╝██║██╔████╔██║███████║
+██╔═██╗ ██╔══╝  ██╔══██╗██║██║╚██╔╝██║██╔══██║
+██║  ██╗███████╗██║  ██║██║██║ ╚═╝ ██║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+```
 
-I build intelligent applications, scalable software systems, and automation solutions that solve real-world problems. My interests span software engineering, artificial intelligence, full-stack development, business intelligence, and data analytics.
+### Hi, I'm Kerima 👋🏽 — Software Engineer & AI Builder
 
----
+*Building intelligent systems that scale. Based in New Haven, CT.*
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerima-mussa-a72735277)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kerima-001)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kerima_kiki__)
 
-🎓 B.S. Computer Science with Minor on Business Analytics & Mathematics
-
-💻 Software Systems Intern @ Sheraton Hotels & Resorts
-
-🤖 AI & Web Developer Intern @ GAO Tek Inc.
-
-🔬 Research Assistant (Data & Policy Research)
-
-🚀 Built AI-powered applications, automation systems, analytics dashboards, and full-stack web solutions
-
-🏆 Dean's List • STEM Recognition Award • Senior Capstone Recognition • 2× Programming Competition Winner
-
-👩🏾‍💻 President, Mathematics & Computer Science Club
-
-🌍 Passionate about using technology to create meaningful impact and solve complex problems
+</div>
 
 ---
 
-## 🌐 Tech Stack
+## 🧠 What I Build
 
-### Languages
+I design and ship **AI-powered applications**, **full-stack web systems**, and **data-driven automation tools** — the kind of software that quietly makes things work better. I'm drawn to problems at the intersection of systems thinking and practical impact.
 
- Python
-
- Java
-
- JavaScript
-
-🗄 SQL
-
-### Frameworks & Tools
-
- React
-
-FastAPI
-
-Flask
-
-REST APIs
-
-LangChain
-
-Power BI
-
-Selenium
-
- PostgreSQL
-
- Git & GitHub
+```python
+kerima = {
+    "focus":    ["AI Applications", "Full-Stack Dev", "Data Engineering"],
+    "stack":    ["Python", "JavaScript", "Java", "SQL"],
+    "tools":    ["React", "FastAPI", "Flask", "LangChain", "PostgreSQL", "Power BI"],
+    "studying": "B.S. Computer Science  ·  Business Analytics & Math Minor",
+    "vibe":     "ship fast, learn constantly, make it matter"
+}
+```
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-🚀 AI Documentation System
-
-AI-powered documentation platform that automates content generation, summarization, and code annotation workflows.
-
-🚀 Course Scheduling Intelligence System
-
-Senior Capstone project using Python, Selenium, APIs, and automation to support academic planning and course recommendations.
-
-🚀 Campus Safety Alert App
-
-Location-aware mobile application delivering real-time emergency alerts and incident reporting.
-
-🚀 Eco Sense AI
-
-Machine learning platform that analyzes environmental data and generates predictive sustainability insights.
+### 🤖 AI Documentation System
+> Automates content generation, summarization, and code annotation workflows — so engineers can stop writing docs by hand.
+`Python` `LangChain` `FastAPI` `NLP`
 
 ---
 
-## Leadership & Impact
-
-👑 President, Mathematics & Computer Science Club
-
-🎓 Tutor Cohort Leader
-
-🤝 Student Ambassador Lead
-
-🏠 Resident Assistant
-
-📈 Built systems and dashboards that improved reporting efficiency by 25%
-
-🌟 Led initiatives that increased student engagement and supported the club's first hackathon participation
+### 📅 Course Scheduling Intelligence System *(Senior Capstone)*
+> Smart academic planning tool using real-time scraping + API integrations to recommend courses based on student history and goals.
+`Python` `Selenium` `REST APIs` `Automation`
 
 ---
 
-## Honors & Recognition
-
-🏆 Dean's List
-
-🏆 STEM Recognition Award
-
-🏆 Senior Capstone Project Recognition
-
-🏆 Academic Excellence Award
-
-🏆 2× Programming Competition Winner
-
-🏆 Student Success Mentor Recognition
+### 🚨 Campus Safety Alert App
+> Location-aware mobile app for real-time emergency alerts and incident reporting across campus.
+`Mobile Dev` `Geolocation` `Alerts`
 
 ---
 
-## Beyond Technology
-
-📚 Continuous Learning
-
-✈️ Travel & Exploring New Cultures
-
-🎤 Mentoring & Leadership
-
-💡 Building New Ideas & Startups
-
-☕ Coffee, Coding, and Side Projects
+### 🌱 Eco Sense AI
+> ML platform that ingests environmental sensor data and generates predictive sustainability insights.
+`Machine Learning` `Data Analysis` `Python`
 
 ---
 
-### “Technology is most powerful when it creates opportunities, solves problems, and improves lives.”
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Layer | Tools |
+|---|---|
+| **Languages** | Python · JavaScript · Java · SQL |
+| **Frontend** | React |
+| **Backend** | FastAPI · Flask · REST APIs |
+| **AI / ML** | LangChain · ML Pipelines |
+| **Data** | PostgreSQL · Power BI · Excel |
+| **Automation** | Selenium · Git · GitHub Actions |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kerima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kerima-001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerima-001&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- 🏅 **Dean's List** · STEM Recognition Award · Senior Capstone Recognition
+- 🥇 **2× Programming Competition Winner**
+- 📈 Built dashboards and systems that improved **reporting efficiency by 25%**
+- 👑 **President**, Mathematics & Computer Science Club — led the club's first hackathon
+- 🎓 Tutor Cohort Leader · Student Ambassador · Resident Assistant
+- 💼 Software Systems Intern @ **Sheraton Hotels & Resorts**
+- 🤖 AI & Web Developer Intern @ **GAO Tek Inc.**
+
+---
+
+## 💬 What Drives Me
+
+> *"Technology is most powerful when it creates opportunities, solves problems, and improves lives."*
+
+I care about building things that work in the real world — not just in demos. I tutor, mentor, and lead because I believe the next generation of builders deserves good support. Right now I'm deepening my work in AI application development and data systems, and always looking for the next problem worth solving.
+
+---
+
+<div align="center">
+
+📍 New Haven, CT &nbsp;·&nbsp; 📬 [LinkedIn](https://linkedin.com/in/kerima-mussa-a72735277) &nbsp;·&nbsp; 🌐 [Portfolio](https://github.com/Kerima-001/portfolio)
+
+*Open to new grad roles, internships, and interesting collaborations.*
+
+</div>
