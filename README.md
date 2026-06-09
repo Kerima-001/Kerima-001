@@ -116,8 +116,6 @@ I care about building things that work in the real world — not just in demos. 
 
 <div align="center">
 
-📍 New Haven, CT &nbsp;·&nbsp; 📬 [LinkedIn](https://linkedin.com/in/kerima-mussa-a72735277) &nbsp;·&nbsp; 🌐 [Portfolio](https://github.com/Kerima-001/portfolio)
-
-*FullTime Roles and interesting collaborations.*
+📍 New Haven, CT &nbsp;·&nbsp; 📬 [LinkedIn](https://linkedin.com/in/kerima-mussa-a72735277) &nbsp;·&nbsp; 🌐 [Portfolio](https://kerima-001.github.io/portfolio/)
 
 </div>
