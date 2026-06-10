@@ -23,7 +23,7 @@ Software Engineer & AI Builder
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
 I design and ship **AI-powered applications**, **full-stack web systems**, and **data driven automation tools** the kind of software that quietly makes things work better. I'm drawn to problems at the intersection of systems thinking and practical impact.
 
@@ -39,33 +39,33 @@ kerima = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 AI Documentation System
+### AI Documentation System
 > Automates content generation, summarization, and code annotation workflows so engineers can stop writing docs by hand.
 `Python` `LangChain` `FastAPI` `NLP`
 
 ---
 
-### 📅 Course Scheduling Intelligence System *(Senior Capstone)*
+###  Course Scheduling Intelligence System *(Senior Capstone)*
 > Smart academic planning tool using real time scraping + API integrations to recommend courses based on student history and goals.
 `Python` `Selenium` `REST APIs` `Automation`
 
 ---
 
-### 🚨 Campus Safety Alert App
+###  Campus Safety Alert App
 > Location-aware mobile app for real time emergency alerts and incident reporting across campus.
 `Mobile Dev` `Geolocation` `Alerts`
 
 ---
 
-### 🌱 Eco Sense AI
+### Eco Sense AI
 > ML platform that ingests environmental sensor data and generates predictive sustainability insights.
 `Machine Learning` `Data Analysis` `Python`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -82,19 +82,19 @@ kerima = {
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
-- 🏅 **Dean's List** · STEM Recognition Award · Senior Capstone Recognition
-- 🥇 **2× Programming Competition Winner**
-- 📈 Built dashboards and systems that improved **reporting efficiency by 25%**
-- 👑 **President**, Mathematics & Computer Science Club — led the club's first hackathon
-- 🎓 Tutor Cohort Leader · Student Ambassador · Resident Assistant
-- 💼 Software Systems Intern @ **Sheraton Hotels & Resorts**
-- 🤖 AI & Web Developer Intern @ **GAO Tek Inc.**
+- **Dean's List** · STEM Recognition Award · Senior Capstone Recognition
+- **2× Programming Competition Winner**
+- Built dashboards and systems that improved **reporting efficiency by 25%**
+-  **President**, Mathematics & Computer Science Club - led the club's first hackathon
+-  Tutor Cohort Leader · Student Ambassador · Resident Assistant
+-  Software Systems Intern @ **Sheraton Hotels & Resorts**
+-  AI & Web Developer Intern @ **GAO Tek Inc.**
 
 ---
 
-## 💬 What Drives Me
+##  What Drives Me
 
 > *"Technology is most powerful when it creates opportunities, solves problems, and improves lives."*
 
@@ -104,6 +104,6 @@ I care about building things that work in the real world, not just in demos. I t
 
 <div align="center">
 
-📍 New Haven, CT &nbsp;·&nbsp; 📬 [LinkedIn](https://linkedin.com/in/kerima-mussa-a72735277) &nbsp;·&nbsp; 🌐 [Portfolio](https://kerima-001.github.io/portfolio/)
+📍 New Haven, CT &nbsp;·&nbsp;  [LinkedIn](https://linkedin.com/in/kerima-mussa-a72735277) &nbsp;·&nbsp;  [Portfolio](https://kerima-001.github.io/portfolio/)
 
 </div>
