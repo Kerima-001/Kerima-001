@@ -1,109 +1,165 @@
 <div align="center">
 
-```
-██╗  ██╗███████╗██████╗ ██╗███╗   ███╗ █████╗
-██║ ██╔╝██╔════╝██╔══██╗██║████╗ ████║██╔══██╗
-█████╔╝ █████╗  ██████╔╝██║██╔████╔██║███████║
-██╔═██╗ ██╔══╝  ██╔══██╗██║██║╚██╔╝██║██╔══██║
-██║  ██╗███████╗██║  ██║██║██║ ╚═╝ ██║██║  ██║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
+# Kerima Mussa
 
-### Hi, I'm Kerima 👋🏽 
-
-Software Engineer & AI Builder
-
-*Building intelligent systems that scale. Based in New Haven, CT.*
+**Software Engineer · AI Builder · Full-Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerima-mussa-a72735277)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kerima-001.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kerima-001)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kerima_kiki__)
 
 </div>
 
 ---
 
-## What I Build
+<div align="center">
 
-I design and ship **AI-powered applications**, **full-stack web systems**, and **data driven automation tools** the kind of software that quietly makes things work better. I'm drawn to problems at the intersection of systems thinking and practical impact.
+*I build software that solves real problems.*
+*From predictive ML systems to enterprise platforms to mobile safety apps —*
+*I care about the craft, the impact, and the details that make things actually work.*
+
+📍 New Haven, CT &nbsp;·&nbsp; B.S. Computer Science · Business Analytics & Math Minor
+
+</div>
+
+---
+
+## About Me
+
+I started coding because I wanted to build things that mattered. That hasn't changed.
+
+Today I design and ship full-stack applications, machine learning systems, and automation tools across the entire stack — from React dashboards and FastAPI backends to SQLite databases and scikit-learn models. I've also started pushing into quantum ML with Qiskit, because why not.
+
+Outside of code I lead. I ran the Mathematics & Computer Science Club as President, organized the department's first hackathon, mentored students as a Tutor Cohort Leader, and supported residents as an RA. I believe the best engineers make the people around them better too.
 
 ```python
-kerima = {
-    "focus":    ["AI Applications", "Full-Stack Dev", "Data Engineering"],
-    "stack":    ["Python", "JavaScript", "Java", "SQL"],
-    "tools":    ["React", "FastAPI", "Flask", "LangChain", "PostgreSQL", "Power BI"],
-    "studying": "B.S. Computer Science  ·  Business Analytics & Math Minor",
-    "vibe":     "ship fast, learn constantly, make it matter"
-}
+class Kerima:
+    location    = "New Haven, CT"
+    degree      = "B.S. Computer Science · Business Analytics & Math Minor"
+    languages   = ["Python", "JavaScript", "Java", "SQL"]
+    tools       = ["React", "FastAPI", "Flask", "LangChain", "PostgreSQL", "Qiskit"]
+    interests   = ["AI applications", "data engineering", "quantum ML", "systems design"]
+    currently   = "building things that matter, learning things that last"
 ```
 
 ---
 
-##  Featured Projects
+## What I've Built
 
-### AI Documentation System
-> Automates content generation, summarization, and code annotation workflows so engineers can stop writing docs by hand.
+<table>
+<tr>
+<td width="50%">
+
+### 🔮 RetentionIQ Pro
+Predicts customer churn before it happens. Live React dashboard with slider-driven predictions, signal breakdown, and personalized retention recommendations. Includes a Qiskit quantum classifier benchmarked against the classical model.
+
+`React` `Python` `FastAPI` `SQLite` `scikit-learn` `Qiskit`
+
+</td>
+<td width="50%">
+
+### 🌱 Eco Sense AI
+Listens to a room and tells you how much energy it is wasting. Uses microphone audio — FFT, RMS, zero-crossing rate — to estimate occupancy, HVAC load, and CO₂ output in real time.
+
+`Python` `NumPy` `sounddevice` `Signal Processing`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚨 Campus Safety Alert App
+One-tap SOS, real-time emergency alerts, and live campus safety mapping for universities. Location-aware notifications delivered based on proximity to an incident.
+
+`Flutter` `FastAPI` `PostgreSQL` `Firebase` `Google Maps API`
+
+</td>
+<td width="50%">
+
+### 🏛️ Department Operations Platform
+Enterprise admin system for academic departments — budgets, faculty, courses, equipment inventory, research grants, and analytics dashboards in one platform.
+
+`Python` `FastAPI` `SQLAlchemy` `Chart.js` `HTML/CSS/JS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI Documentation System
+Automates the part of engineering nobody wants to do. Generates docs, summarizes codebases, and annotates functions so teams can focus on shipping.
+
 `Python` `LangChain` `FastAPI` `NLP`
 
----
+</td>
+<td width="50%">
 
-###  Course Scheduling Intelligence System *(Senior Capstone)*
-> Smart academic planning tool using real time scraping + API integrations to recommend courses based on student history and goals.
+### 📅 Course Scheduling Intelligence
+Senior Capstone. Scrapes live course data and recommends the right classes based on a student's history, goals, and scheduling constraints.
+
 `Python` `Selenium` `REST APIs` `Automation`
 
----
-
-###  Campus Safety Alert App
-> Location-aware mobile app for real time emergency alerts and incident reporting across campus.
-`Mobile Dev` `Geolocation` `Alerts`
+</td>
+</tr>
+</table>
 
 ---
 
-### Eco Sense AI
-> ML platform that ingests environmental sensor data and generates predictive sustainability insights.
-`Machine Learning` `Data Analysis` `Python`
-
----
-
-## Tech Stack
+## Stack
 
 <div align="center">
 
-| Layer | Tools |
-|---|---|
-| **Languages** | Python · JavaScript · Java · SQL |
-| **Frontend** | React |
-| **Backend** | FastAPI · Flask · REST APIs |
-| **AI / ML** | LangChain · ML Pipelines |
-| **Data** | PostgreSQL · Power BI · Excel |
-| **Automation** | Selenium · Git · GitHub Actions |
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-##  Highlights
+## GitHub Stats
 
-- **Dean's List** · STEM Recognition Award · Senior Capstone Recognition
-- **2× Programming Competition Winner**
-- Built dashboards and systems that improved **reporting efficiency by 25%**
--  **President**, Mathematics & Computer Science Club - led the club's first hackathon
--  Tutor Cohort Leader · Student Ambassador · Resident Assistant
--  Software Systems Intern @ **Sheraton Hotels & Resorts**
--  AI & Web Developer Intern @ **GAO Tek Inc.**
+<div align="center">
+
+![Kerima's Stats](https://github-readme-stats.vercel.app/api?username=Kerima-001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerima-001&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-##  What Drives Me
+## Highlights
 
-> *"Technology is most powerful when it creates opportunities, solves problems, and improves lives."*
+🏆 &nbsp; Dean's List · STEM Recognition Award · 2× Programming Competition Winner
 
-I care about building things that work in the real world, not just in demos. I tutor, mentor, and lead because I believe the next generation of builders deserves good support. Right now I'm deepening my work in AI application development and data systems, and always looking for the next problem worth solving.
+👑 &nbsp; President, Math & CS Club — organized the department's first hackathon
+
+💼 &nbsp; Software Systems Intern @ Sheraton Hotels & Resorts
+
+🤖 &nbsp; AI & Web Developer Intern @ GAO Tek Inc.
+
+📈 &nbsp; Built systems that improved reporting efficiency by 25%
+
+🎓 &nbsp; Tutor Cohort Leader · Student Ambassador · Resident Assistant · Peer Mentor
 
 ---
 
 <div align="center">
 
-📍 New Haven, CT &nbsp;·&nbsp;  [LinkedIn](https://linkedin.com/in/kerima-mussa-a72735277) &nbsp;·&nbsp;  [Portfolio](https://kerima-001.github.io/portfolio/)
+*"Technology is most powerful when it creates opportunities, solves problems, and improves lives."*
+
+**Open to new grad roles, internships, and interesting collaborations.**
 
 </div>
