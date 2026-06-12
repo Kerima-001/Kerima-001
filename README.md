@@ -9,10 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kerima-001)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kerima_kiki__)
 
-📍 New Haven, CT &nbsp;·&nbsp; B.S. Computer Science · Business Analytics & Math Minor &nbsp;·&nbsp; Open to new grad roles
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kerima-001&color=7c3aed&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Kerima-001?style=flat-square&color=7c3aed&label=Followers)
+📍 New Haven, CT &nbsp;·&nbsp; B.S. Computer Science · Business Analytics & Math Minor &nbsp;·&nbsp; Open to FullTime Role :)
 
 </div>
 
