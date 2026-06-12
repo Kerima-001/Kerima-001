@@ -200,7 +200,7 @@ I read constantly. I travel when I can and love learning how different cultures 
 
 &nbsp;
 
-**Actively looking for new grad software engineering roles, internships, and interesting collaborations.**
+**Actively looking for software engineering roles and interesting collaborations.**
 **If you are building something meaningful, I want to hear about it.**
 
 [LinkedIn](https://linkedin.com/in/kerima-mussa-a72735277) &nbsp;·&nbsp; [Portfolio](https://kerima-001.github.io/portfolio/) &nbsp;·&nbsp; [GitHub](https://github.com/Kerima-001)
