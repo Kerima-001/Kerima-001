@@ -15,7 +15,7 @@
 <div align="center">
 
 *I build software that solves real problems.*
-*From predictive ML systems to enterprise platforms to mobile safety apps —*
+*From predictive ML systems to enterprise platforms to mobile safety apps.*
 *I care about the craft, the impact, and the details that make things actually work.*
 
 📍 New Haven, CT &nbsp;·&nbsp; B.S. Computer Science · Business Analytics & Math Minor
