@@ -28,7 +28,7 @@
 
 I started coding because I wanted to build things that mattered. That hasn't changed.
 
-Today I design and ship full-stack applications, machine learning systems, and automation tools across the entire stack — from React dashboards and FastAPI backends to SQLite databases and scikit-learn models. I've also started pushing into quantum ML with Qiskit, because why not.
+Today I design and ship full-stack applications, machine learning systems, and automation tools across the entire stack ,from React dashboards and FastAPI backends to SQLite databases and scikit-learn models. I've also started pushing into quantum ML with Qiskit, because why not.
 
 Outside of code I lead. I ran the Mathematics & Computer Science Club as President, organized the department's first hackathon, mentored students as a Tutor Cohort Leader, and supported residents as an RA. I believe the best engineers make the people around them better too.
 
@@ -50,7 +50,7 @@ class Kerima:
 <tr>
 <td width="50%">
 
-### 🔮 RetentionIQ Pro
+### RetentionIQ Pro
 Predicts customer churn before it happens. Live React dashboard with slider-driven predictions, signal breakdown, and personalized retention recommendations. Includes a Qiskit quantum classifier benchmarked against the classical model.
 
 `React` `Python` `FastAPI` `SQLite` `scikit-learn` `Qiskit`
@@ -58,8 +58,8 @@ Predicts customer churn before it happens. Live React dashboard with slider-driv
 </td>
 <td width="50%">
 
-### 🌱 Eco Sense AI
-Listens to a room and tells you how much energy it is wasting. Uses microphone audio — FFT, RMS, zero-crossing rate — to estimate occupancy, HVAC load, and CO₂ output in real time.
+### Eco Sense AI
+Listens to a room and tells you how much energy it is wasting. Uses microphone audio, FT, RMS, zero-crossing rate to estimate occupancy, HVAC load, and CO₂ output in real time.
 
 `Python` `NumPy` `sounddevice` `Signal Processing`
 
@@ -68,7 +68,7 @@ Listens to a room and tells you how much energy it is wasting. Uses microphone a
 <tr>
 <td width="50%">
 
-### 🚨 Campus Safety Alert App
+### Campus Safety Alert App
 One-tap SOS, real-time emergency alerts, and live campus safety mapping for universities. Location-aware notifications delivered based on proximity to an incident.
 
 `Flutter` `FastAPI` `PostgreSQL` `Firebase` `Google Maps API`
@@ -76,8 +76,8 @@ One-tap SOS, real-time emergency alerts, and live campus safety mapping for univ
 </td>
 <td width="50%">
 
-### 🏛️ Department Operations Platform
-Enterprise admin system for academic departments — budgets, faculty, courses, equipment inventory, research grants, and analytics dashboards in one platform.
+###  Department Operations Platform
+Enterprise admin system for academic departments budgets, faculty, courses, equipment inventory, research grants, and analytics dashboards in one platform.
 
 `Python` `FastAPI` `SQLAlchemy` `Chart.js` `HTML/CSS/JS`
 
@@ -86,7 +86,7 @@ Enterprise admin system for academic departments — budgets, faculty, courses, 
 <tr>
 <td width="50%">
 
-### 🤖 AI Documentation System
+### AI Documentation System
 Automates the part of engineering nobody wants to do. Generates docs, summarizes codebases, and annotates functions so teams can focus on shipping.
 
 `Python` `LangChain` `FastAPI` `NLP`
@@ -94,7 +94,7 @@ Automates the part of engineering nobody wants to do. Generates docs, summarizes
 </td>
 <td width="50%">
 
-### 📅 Course Scheduling Intelligence
+### Course Scheduling Intelligence
 Senior Capstone. Scrapes live course data and recommends the right classes based on a student's history, goals, and scheduling constraints.
 
 `Python` `Selenium` `REST APIs` `Automation`
@@ -142,17 +142,17 @@ Senior Capstone. Scrapes live course data and recommends the right classes based
 
 ## Highlights
 
-🏆 &nbsp; Dean's List · STEM Recognition Award · 2× Programming Competition Winner
+ &nbsp; Dean's List · STEM Recognition Award · 2× Programming Competition Winner
 
-👑 &nbsp; President, Math & CS Club — organized the department's first hackathon
+ &nbsp; President, Math & CS Club - organized the department's first hackathon
 
-💼 &nbsp; Software Systems Intern @ Sheraton Hotels & Resorts
+ &nbsp; Software Systems Intern @ Sheraton Hotels & Resorts
 
-🤖 &nbsp; AI & Web Developer Intern @ GAO Tek Inc.
+ &nbsp; AI & Web Developer Intern @ GAO Tek Inc.
 
-📈 &nbsp; Built systems that improved reporting efficiency by 25%
+ &nbsp; Built systems that improved reporting efficiency by 25%
 
-🎓 &nbsp; Tutor Cohort Leader · Student Ambassador · Resident Assistant · Peer Mentor
+ &nbsp; Tutor Cohort Leader · Student Ambassador · Resident Assistant · Peer Mentor
 
 ---
 
@@ -160,6 +160,6 @@ Senior Capstone. Scrapes live course data and recommends the right classes based
 
 *"Technology is most powerful when it creates opportunities, solves problems, and improves lives."*
 
-**Open to new grad roles, internships, and interesting collaborations.**
+**Open to Fulltime Role and interesting collaborations to make things matter.**
 
 </div>
