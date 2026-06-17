@@ -29,7 +29,7 @@ I lead too. President of the Mathematics & Computer Science Club, organized my d
 class Kerima:
     location       = "New Haven, CT"
     degree         = "B.S. Computer Science · Business Analytics & Math Minor"
-    primary_lang   = "Python 🐍"                          # always Python first
+    primary_lang   = "Python "                          # always Python first
     languages      = ["Python", "JavaScript", "Java", "SQL"]
     frameworks     = ["React", "FastAPI", "Flask", "Flutter", "LangChain"]
     databases      = ["PostgreSQL", "SQLite", "SQL Server"]
