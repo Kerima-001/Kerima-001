@@ -22,7 +22,7 @@ I build systems that don't just demo well , they actually work.
 
 I grew up watching technology reshape everything around me, and I wanted to be part of building it. I didn't always have the perfect path or all the resources.I figured things out, stayed curious, and kept shipping.
 
-I'm a computer science student who thinks in Python first. From FastAPI backends and machine learning pipelines to signal processing, database automation, and quantum machine learning experiments, it's the thread running through almost everything I build. I work across the full stack  predictive systems, enterprise platforms, mobile apps, automation tools — because I care more about whether something actually *works* than whether it looks good in a five-minute demo.
+I'm a computer science student who thinks in Python first. From FastAPI backends and machine learning pipelines to signal processing, database automation, and quantum machine learning experiments, it's the thread running through almost everything I build. I work across the full stack  predictive systems, enterprise platforms, mobile apps, automation tools because I care more about whether something actually *works* than whether it looks good in a five-minute demo.
 
 I've interned as a **Software Systems Intern at Sheraton Hotels & Resorts**, building systems used in real hotel operations, and as an **AI & Web Developer Intern at GAO Tek Inc.**, developing AI-powered web tools. Outside of internships, I build my own projects: a churn prediction platform, an acoustic carbon monitor, a campus safety app, an enterprise department management system, and more.
 
