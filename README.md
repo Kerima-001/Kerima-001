@@ -177,7 +177,6 @@ My senior capstone. Scrapes live course availability, pulls from institutional A
 <img src="https://github-readme-stats.vercel.app/api?username=Kerima-001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerima-001&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kerima-001&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
