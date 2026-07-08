@@ -4,7 +4,7 @@
 
 ### Software Engineer · Full-Stack Developer · AI Builder
 
-I build systems that don't just demo well — they actually work.
+I build systems that don't just demo well , they actually work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerima-mussa-a72735277)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kerima-001.github.io/portfolio/)
@@ -20,13 +20,13 @@ I build systems that don't just demo well — they actually work.
 
 ## About Me
 
-I grew up watching technology reshape everything around me, and I wanted to be part of building it. I didn't always have the perfect path or all the resources — I figured things out, stayed curious, and kept shipping.
+I grew up watching technology reshape everything around me, and I wanted to be part of building it. I didn't always have the perfect path or all the resources.I figured things out, stayed curious, and kept shipping.
 
-I'm a computer science student who thinks in Python first. From FastAPI backends and machine learning pipelines to signal processing, database automation, and quantum machine learning experiments, it's the thread running through almost everything I build. I work across the full stack — predictive systems, enterprise platforms, mobile apps, automation tools — because I care more about whether something actually *works* than whether it looks good in a five-minute demo.
+I'm a computer science student who thinks in Python first. From FastAPI backends and machine learning pipelines to signal processing, database automation, and quantum machine learning experiments, it's the thread running through almost everything I build. I work across the full stack  predictive systems, enterprise platforms, mobile apps, automation tools — because I care more about whether something actually *works* than whether it looks good in a five-minute demo.
 
 I've interned as a **Software Systems Intern at Sheraton Hotels & Resorts**, building systems used in real hotel operations, and as an **AI & Web Developer Intern at GAO Tek Inc.**, developing AI-powered web tools. Outside of internships, I build my own projects: a churn prediction platform, an acoustic carbon monitor, a campus safety app, an enterprise department management system, and more.
 
-I lead, too. President of the Mathematics & Computer Science Club. Organizer of my department's first hackathon. Tutor Cohort Leader, Student Ambassador, Resident Assistant, Peer Mentor. I believe the best engineers lift the people around them — that matters to me as much as the code does.
+I lead, too. President of the Mathematics & Computer Science Club. Organizer of my department's first hackathon. Tutor Cohort Leader, Student Ambassador, Resident Assistant, Peer Mentor. I believe the best engineers lift the people around them  that matters to me as much as the code does.
 
 ```python
 class Kerima:
@@ -72,14 +72,14 @@ class Kerima:
 
 ## What I Build
 
-I don't specialize in just one layer of the stack. I design and build across all of them — interactive React dashboards, FastAPI backends, ML pipelines, SQLite/PostgreSQL databases, Flutter mobile apps, and quantum classifiers. Python is the connective tissue behind nearly all of it.
+I don't specialize in just one layer of the stack. I design and build across all of them being interactive React dashboards, FastAPI backends, ML pipelines, SQLite/PostgreSQL databases, Flutter mobile apps, and quantum classifiers. Python is the connective tissue behind nearly all of it.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📉 RetentionIQ Pro
-A full-stack churn prediction platform. Trains a scikit-learn model on real customer behavioral data — spend, support tickets, tenure, satisfaction score — and surfaces live predictions through an interactive React dashboard. Move a slider and the retention probability, risk score, signal breakdown, and personalized recommendations update instantly. Includes an experimental Qiskit Quantum SVM benchmarked against the classical model.
+A full-stack churn prediction platform. Trains a scikit-learn model on real customer behavioral data  spend, support tickets, tenure, satisfaction score and surfaces live predictions through an interactive React dashboard. Move a slider and the retention probability, risk score, signal breakdown, and personalized recommendations update instantly. Includes an experimental Qiskit Quantum SVM benchmarked against the classical model.
 
 `Python` `React` `FastAPI` `SQLite` `scikit-learn` `Qiskit`
 
@@ -105,9 +105,9 @@ A full-stack mobile safety platform for university campuses. Location-aware emer
 <td width="50%" valign="top">
 
 ### 🏢 Department Operations Platform
-An enterprise-grade academic administration system: budget tracking, faculty management, course scheduling, equipment inventory, research grant monitoring, student worker payroll, travel requests, and a full Chart.js analytics dashboard — built to simulate real university operations software.
+An enterprise-grade academic administration system: budget tracking, faculty management, course scheduling, equipment inventory, research grant monitoring, student worker payroll, travel requests, and a full Chart.js analytics dashboard built to simulate real university operations software.
 
-`Python` `FastAPI` `SQLAlchemy` `SQLite` `Chart.js` `JavaScript`
+`Python` `FastAPI` `SQLAlchemy` `SQLite` `Chart.js` `JavaScript
 
 </td>
 </tr>
@@ -185,7 +185,7 @@ My senior capstone. Scrapes live course availability, pulls from institutional A
 
 ## Recognition & Leadership
 
-- 🎓 **Dean's List** — maintained academic excellence throughout my degree
+- 🎓 **Dean's List** - maintained academic excellence throughout my degree
 - ⭐ **STEM Recognition Award** · Senior Capstone Recognition · Academic Excellence Award
 - 🏆 **2× Programming Competition Winner** · Student Success Mentor Recognition
 - 📈 Built systems that improved departmental reporting efficiency by **25%**
@@ -198,7 +198,7 @@ My senior capstone. Scrapes live course availability, pulls from institutional A
 
 ## Beyond the Code
 
-I read constantly. I travel when I can and love seeing how different cultures approach the same problems in different ways. I mentor because someone once mentored me, and I don't take that lightly. I drink too much coffee, and I have more side-project ideas than hours in the day — I think that's probably a good sign.
+I read constantly. I travel when I can and love seeing how different cultures approach the same problems in different ways. I mentor because someone once mentored me, and I don't take that lightly. I drink too much coffee, and I have more side-project ideas than hours in the day.I think that's probably a good sign.
 
 <br>
 
