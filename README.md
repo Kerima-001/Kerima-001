@@ -12,7 +12,7 @@ I build systems that don't just demo well , they actually work.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kerima_kiki__)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31oarcnqsweujzbcnuzg3iy5liqy?si=fa6a3bc034ac4a18)
 
-📍 New Haven, CT &nbsp;|&nbsp; 🎓 B.S. Computer Science, Business Analytics & Math Minor &nbsp;|&nbsp; 🟢 Open to Full-Time Roles
+ New Haven, CT &nbsp;|&nbsp;  B.S. Computer Science, Business Analytics & Math Minor &nbsp;|&nbsp;  Open to Full-Time Roles
 
 </div>
 
@@ -78,7 +78,7 @@ I don't specialize in just one layer of the stack. I design and build across all
 <tr>
 <td width="50%" valign="top">
 
-### 📉 RetentionIQ Pro
+###  RetentionIQ Pro
 A full-stack churn prediction platform. Trains a scikit-learn model on real customer behavioral data  spend, support tickets, tenure, satisfaction score and surfaces live predictions through an interactive React dashboard. Move a slider and the retention probability, risk score, signal breakdown, and personalized recommendations update instantly. Includes an experimental Qiskit Quantum SVM benchmarked against the classical model.
 
 `Python` `React` `FastAPI` `SQLite` `scikit-learn` `Qiskit`
@@ -86,7 +86,7 @@ A full-stack churn prediction platform. Trains a scikit-learn model on real cust
 </td>
 <td width="50%" valign="top">
 
-### 🌱 EcoSense AI
+###  EcoSense AI
 A real-time acoustic carbon monitor that runs on nothing but a microphone. Analyzes ambient audio using FFT, RMS amplitude, and zero-crossing rate to estimate occupancy, HVAC load, device activity, and hourly CO₂ output. Outputs a live terminal dashboard with plain-English energy reduction recommendations.
 
 `Python` `NumPy` `sounddevice` `FFT` `Signal Processing`
@@ -96,7 +96,7 @@ A real-time acoustic carbon monitor that runs on nothing but a microphone. Analy
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 Campus Safety Alert App
+###  Campus Safety Alert App
 A full-stack mobile safety platform for university campuses. Location-aware emergency alerts, incident reporting with GPS and photos, a live campus safety map, and one-tap SOS. Security personnel get a real-time operations dashboard with incident tracking and response analytics.
 
 `Flutter` `Python` `FastAPI` `PostgreSQL` `Firebase` `Google Maps API`
@@ -104,7 +104,7 @@ A full-stack mobile safety platform for university campuses. Location-aware emer
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Department Operations Platform
+### Department Operations Platform
 An enterprise-grade academic administration system: budget tracking, faculty management, course scheduling, equipment inventory, research grant monitoring, student worker payroll, travel requests, and a full Chart.js analytics dashboard built to simulate real university operations software.
 
 `Python` `FastAPI` `SQLAlchemy` `SQLite` `Chart.js` `JavaScript
@@ -114,7 +114,7 @@ An enterprise-grade academic administration system: budget tracking, faculty man
 <tr>
 <td width="50%" valign="top">
 
-### 📚 AI Documentation System
+###  AI Documentation System
 Eliminates the most tedious part of engineering. Automatically generates API docs, summarizes codebases, and annotates functions with inline comments — so engineering teams can focus on shipping features instead of writing documentation.
 
 `Python` `LangChain` `FastAPI` `NLP`
@@ -122,7 +122,7 @@ Eliminates the most tedious part of engineering. Automatically generates API doc
 </td>
 <td width="50%" valign="top">
 
-### 🗓️ Course Scheduling Intelligence
+### Course Scheduling Intelligence
 My senior capstone. Scrapes live course availability, pulls from institutional APIs, and recommends the right courses based on a student's completed history, degree requirements, and scheduling constraints.
 
 `Python` `Selenium` `REST APIs` `Automation`
@@ -185,14 +185,14 @@ My senior capstone. Scrapes live course availability, pulls from institutional A
 
 ## Recognition & Leadership
 
-- 🎓 **Dean's List** - maintained academic excellence throughout my degree
-- ⭐ **STEM Recognition Award** · Senior Capstone Recognition · Academic Excellence Award
-- 🏆 **2× Programming Competition Winner** · Student Success Mentor Recognition
-- 📈 Built systems that improved departmental reporting efficiency by **25%**
-- 🧑‍💼 **President**, Mathematics & Computer Science Club — organized the department's first hackathon
-- 🏨 Software Systems Intern @ **Sheraton Hotels & Resorts**
-- 🤖 AI & Web Developer Intern @ **GAO Tek Inc.**
-- 🌟 Tutor Cohort Leader · Student Ambassador · Resident Assistant · Peer Mentor
+-  **Dean's List** - maintained academic excellence throughout my degree
+-  **STEM Recognition Award** · Senior Capstone Recognition · Academic Excellence Award
+-  **2× Programming Competition Winner** · Student Success Mentor Recognition
+-  Built systems that improved departmental reporting efficiency by **25%**
+-  **President**, Mathematics & Computer Science Club — organized the department's first hackathon
+-  Software Systems Intern @ **Sheraton Hotels & Resorts**
+- AI & Web Developer Intern @ **GAO Tek Inc.**
+-  Tutor Cohort Leader · Student Ambassador · Resident Assistant · Peer Mentor
 
 <br>
 
