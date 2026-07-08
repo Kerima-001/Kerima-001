@@ -32,7 +32,7 @@ I lead, too. President of the Mathematics & Computer Science Club. Organizer of 
 class Kerima:
     location      = "New Haven, CT"
     degree        = "B.S. Computer Science · Business Analytics & Math Minor"
-    primary_lang  = "Python"                       # always Python first
+    primary_lang  = "Python"                       
     languages     = ["Python", "JavaScript", "Java", "SQL"]
     frameworks    = ["React", "FastAPI", "Flask", "Flutter", "LangChain"]
     databases     = ["PostgreSQL", "SQLite", "SQL Server"]
@@ -53,18 +53,18 @@ class Kerima:
 
 | Metric | Detail |
 |:---:|:---|
-| 🐍 **Python** | Primary language across 80%+ of all projects |
-| 🚀 **6** | Original projects built from scratch |
-| 🗄️ **4** | Full database schemas designed and implemented |
-| 🔌 **3** | REST APIs built and deployed with FastAPI and Flask |
-| 📊 **5+** | Analytics dashboards and data visualizations shipped |
-| 🤖 **2** | AI-powered applications built with LangChain and scikit-learn |
-| ⚛️ **1** | Quantum ML classifier built with Qiskit |
-| 💼 **2** | Software engineering internships completed |
-| 🏆 **2** | Programming competitions won |
-| 🎤 **1** | Hackathon organized as club president |
-| 📈 **25%** | Reporting efficiency improvement from systems I built |
-| 🎓 **3+** | Years spent tutoring and mentoring fellow students |
+|  **Python** | Primary language across 80%+ of all projects |
+|  **6** | Original projects built from scratch |
+|  **4** | Full database schemas designed and implemented |
+|  **3** | REST APIs built and deployed with FastAPI and Flask |
+|  **5+** | Analytics dashboards and data visualizations shipped |
+|  **2** | AI-powered applications built with LangChain and scikit-learn |
+|  **1** | Quantum ML classifier built with Qiskit |
+|  **2** | Software engineering internships completed |
+|  **2** | Programming competitions won |
+|  **1** | Hackathon organized as club president |
+|  **25%** | Reporting efficiency improvement from systems I built |
+|  **3+** | Years spent tutoring and mentoring fellow students |
 
 </div>
 
