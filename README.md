@@ -177,7 +177,7 @@ My senior capstone. Scrapes live course availability, pulls from institutional A
 -  **STEM Recognition Award** · Senior Capstone Recognition · Academic Excellence Award
 -  **2× Programming Competition Winner** · Student Success Mentor Recognition
 -  Built systems that improved departmental reporting efficiency by **25%**
--  **President**, Mathematics & Computer Science Club — organized the department's first hackathon
+-  **President**, Mathematics & Computer Science Club - organized the department's first hackathon
 -  Software Systems Intern @ **Sheraton Hotels & Resorts**
 - AI & Web Developer Intern @ **GAO Tek Inc.**
 -  Tutor Cohort Leader · Student Ambassador · Resident Assistant · Peer Mentor
